@@ -1,0 +1,15 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container my-5">
+    <form class="forms-sample" asp-action="Create">
+        <input type="text" class="form-control" id="customFile" asp-for="Name"/>
+        <div class="button my-3">
+            <button type="submit" class="btn btn-primary mr-2">Sumbit</button>
+            <a class="btn btn-light" asp-action="Index">Cancel</a>
+        </div>
+    </form>
+</div>
+
