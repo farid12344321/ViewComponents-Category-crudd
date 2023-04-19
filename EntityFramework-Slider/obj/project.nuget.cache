@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IHULw7+OxxIpaVVdtL/NBOisNLV7mUsF11TD9sQE/U0T0k8bqKJ+ZfN7jLwT1LvH0whNYtLc1mdB2gX1TPoFHg==",
+  "dgSpecHash": "Gs0opLIuNNvN80ALk6gGJcsAqHKK340fE7fO0f0A3gnBlt4fX1Thh9WLvQUURYWqRQIUcOqycFKheZ+maz3swg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\homework\\AspNet\\Ajax, Services2\\Ajax, Services practica2\\EntityFramework-Slider\\EntityFramework-Slider.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\homework\\AspNet\\ViewComponents, Category crud2\\ViewComponents, Category crudd\\EntityFramework-Slider\\EntityFramework-Slider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

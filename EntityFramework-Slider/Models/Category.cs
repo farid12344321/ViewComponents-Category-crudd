@@ -1,4 +1,7 @@
-﻿namespace EntityFramework_Slider.Models
+﻿using Microsoft.Build.Framework;
+
+
+namespace EntityFramework_Slider.Models
 {
     public class Category:BaseEntity
     {
